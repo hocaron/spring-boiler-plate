@@ -1,0 +1,4 @@
+rootProject.name = 'boiler-plate'
+include 'api'
+include 'core'
+
